@@ -2,7 +2,7 @@
 
 ## Description
 
-WestWild is a Linux-based Capture The Flag (CTF) machine created for cybersecurity practice. It includes web enumeration, hidden clues, steganography, SSH access, and privilege escalation challenges.
+ Linux-based Capture The Flag (CTF) machine created for cybersecurity practice. It includes web enumeration, hidden clues, steganography, SSH access, and privilege escalation challenges.
 
 ## Services
 
